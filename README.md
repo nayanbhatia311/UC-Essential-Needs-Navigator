@@ -14,6 +14,7 @@
 ## **2. Review Existing Connectors**
 
 Before adding a new resource, check if it already exists:
+<img width="201" alt="image" src="https://github.com/user-attachments/assets/1e34599b-023c-4b2d-99e9-53445f0c4b32" />
 
 1. **Navigate to Connectors**:  
    - In the left-hand panel, select **Connectors**.
@@ -22,6 +23,7 @@ Before adding a new resource, check if it already exists:
    - Browse the list or use the search function to find the desired resource.  
    - If the resource is listed, no further action is needed.  
    - If not, proceed to add it.
+<img width="968" alt="image" src="https://github.com/user-attachments/assets/4f34284b-4652-4882-aa1e-38aa28a55f03" />
 
 ---
 
@@ -31,14 +33,20 @@ Before adding a new resource, check if it already exists:
 
 1. **Add Connector**:  
    - In the **Connectors** section, click **Add Connector**.
+     <img width="252" alt="image" src="https://github.com/user-attachments/assets/a1193676-0a8d-46ba-a986-9faa0c594810" />
+
 
 2. **Select Connector Type**:  
    - Choose the **Web** connector under the "Other" section.
+     <img width="802" alt="image" src="https://github.com/user-attachments/assets/4e096afd-a186-41f3-8068-05213c07c264" />
+
 
 ### **Step 3.2: Configure the Connector**
+<img width="1911" alt="image" src="https://github.com/user-attachments/assets/e059f242-4573-4c84-9682-d5281aac1079" />
 
 1. **Connector Name**:  
    - Enter the resource's base URL as the connector name (e.g., `https://basicneeds.ucsc.edu`).
+     
 
 2. **Base URL**:  
    - Input the same URL as above.
