@@ -1,4 +1,4 @@
-## **Welcome to the UC Essential Needs Navigator**  
+## **Welcome to the UC Essential Needs Navigator**
 
 The UC Essential Needs Navigator is a powerful AI-driven platform designed to help students locate and access essential resources across all UC campuses. Developed in collaboration with graduate and undergraduate researchers, the tool empowers students to find timely, accurate, and actionable support for their basic needs.
 
@@ -14,7 +14,9 @@ In response to the challenges posed during the pandemic and feedback from our UC
 ---
 
 ### **Key Features**  
+
 1. **Find Resources Quickly**  
+   ![Demo Chat](https://drive.google.com/uc?id=16y8GKCOTRL90GAgh8YeEKIQTeFws_btx "Demo Chat")  
    Search for support across multiple categories, including:  
    - Housing and Food Security  
    - Financial Aid Information  
@@ -23,6 +25,7 @@ In response to the challenges posed during the pandemic and feedback from our UC
    - Legal and Community Resources  
 
 2. **Create a Personal Profile**  
+   
    - Students can log in and save relevant resources for future access.  
    - Guest access is also available for families and community members.
 
@@ -30,11 +33,13 @@ In response to the challenges posed during the pandemic and feedback from our UC
    - Resources are regularly updated from campus websites, ensuring the information you access is reliable and current.
 
 4. **Interactive Feedback**  
+   ![Negative Feedback](https://drive.google.com/uc?id=16DA1cibVopo162f4sXk7Hq50-ukpH4BC "Negative Feedback")  
    - Students can submit feedback with thumbs-up or thumbs-down features to help improve the platform’s accuracy.
 
 ---
 
 ### **How It Works**  
+
 1. **Explore Resources**  
    - Log in as a UC student or access as a guest.  
    - Select your campus and query for specific needs like “free food at UCSC” or “housing support for international students.”  
@@ -48,6 +53,7 @@ In response to the challenges posed during the pandemic and feedback from our UC
 ---
 
 ### **Why Use the Navigator?**  
+
 - **Centralized Platform**: No more searching through multiple websites.  
 - **Updated Information**: Resources reflect the most recent changes.  
 - **Student-Driven Design**: Built with input from UC students to address real needs.  
@@ -56,6 +62,7 @@ In response to the challenges posed during the pandemic and feedback from our UC
 ---
 
 ### **Get Started Today**  
+
 Click below to explore the Essential Needs Navigator and find the support you need:  
 [**Launch the Navigator**](https://cloud.onyx.app/)  
 
