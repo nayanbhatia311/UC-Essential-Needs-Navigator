@@ -6,16 +6,24 @@
 ## **1. Access Onyx.app**
 
 1. **Open Onyx.app**:  
-   - Navigate to [https://cloud.onyx.app/](https://cloud.onyx.app/).  
-   - Log in with your administrator credentials.
+   - Navigate to [https://cloud.onyx.app/](https://cloud.onyx.app/).
+   <img width="698" alt="image" src="https://github.com/user-attachments/assets/1ce17d65-7ce5-4043-8e18-d7ae630afbbb" />
+   
+   - Log in with your administrator credentials. (Check notes at the end of the document in case you are not an admin)
+   <img width="1915" alt="image" src="https://github.com/user-attachments/assets/ffe53822-624d-4dce-9d11-2b814c5b9988" />
+
+   
+
 
 ---
 
 ## **2. Review Existing Connectors**
 
-Before adding a new resource, check if it already exists:
-<img width="201" alt="image" src="https://github.com/user-attachments/assets/1e34599b-023c-4b2d-99e9-53445f0c4b32" />
+Click on admin panel 
 
+<img width="211" alt="image" src="https://github.com/user-attachments/assets/5bfa17ae-8ff1-498a-ad69-f5d6eba8d2a1" />
+
+Before adding a new resource, check if it already exists:
 1. **Navigate to Connectors**:  
    - In the left-hand panel, select **Connectors**.
 
@@ -23,7 +31,9 @@ Before adding a new resource, check if it already exists:
    - Browse the list or use the search function to find the desired resource.  
    - If the resource is listed, no further action is needed.  
    - If not, proceed to add it.
-<img width="968" alt="image" src="https://github.com/user-attachments/assets/4f34284b-4652-4882-aa1e-38aa28a55f03" />
+     
+<img width="1917" alt="image" src="https://github.com/user-attachments/assets/cef36b02-4a5c-4e40-a50f-0b2e44d520bd" />
+
 
 ---
 
@@ -33,16 +43,22 @@ Before adding a new resource, check if it already exists:
 
 1. **Add Connector**:  
    - In the **Connectors** section, click **Add Connector**.
-     <img width="252" alt="image" src="https://github.com/user-attachments/assets/a1193676-0a8d-46ba-a986-9faa0c594810" />
+     
+     <img width="1917" alt="image" src="https://github.com/user-attachments/assets/5df91a05-40e5-488e-b568-c03faaa92ae7" />
+
 
 
 2. **Select Connector Type**:  
-   - Choose the **Web** connector under the "Other" section.
-     <img width="802" alt="image" src="https://github.com/user-attachments/assets/4e096afd-a186-41f3-8068-05213c07c264" />
+   - Scroll down and choose the **Web** connector under the "Other" section.
+    
+     <img width="839" alt="image" src="https://github.com/user-attachments/assets/156f7fc8-7b9b-4401-8687-01fd4872496d" />
+
 
 
 ### **Step 3.2: Configure the Connector**
-<img width="1911" alt="image" src="https://github.com/user-attachments/assets/e059f242-4573-4c84-9682-d5281aac1079" />
+
+<img width="820" alt="image" src="https://github.com/user-attachments/assets/ec8f60f6-3938-4f59-b9c5-0a88f5e0f61b" />
+
 
 1. **Connector Name**:  
    - Enter the resource's base URL as the connector name (e.g., `https://basicneeds.ucsc.edu`).
@@ -85,7 +101,10 @@ To ensure the UC Essential Needs Navigator provides accurate and relevant inform
 ### **Step 5.1: Test the Navigator**
 
 1. **Access the Navigator**:  
-   - Use the UC Essential Needs Navigator to ask various queries related to campus resources. (e.g., `Housing resources in UC Berkeley`)
+   - Use the UC Essential Needs Navigator to ask various queries related to campus resources. (e.g., `Student discount in Santa cruz`)
+     
+     <img width="686" alt="image" src="https://github.com/user-attachments/assets/a544df36-23fa-4037-977e-dbcc10a88225" />
+
 
 2. **Evaluate the Response**:  
    - Check the responses for accuracy, completeness, and relevance.
@@ -93,6 +112,10 @@ To ensure the UC Essential Needs Navigator provides accurate and relevant inform
      - Incorrect information.
      - Irrelevant documents retrieved.
      - Outdated or missing data.
+     - Add more details to a particular information
+    
+
+
 
 ---
 
@@ -100,12 +123,17 @@ To ensure the UC Essential Needs Navigator provides accurate and relevant inform
 
 1. **Feedback Options**:  
    - Click the **Thumbs Up** or **Thumbs Down** icons next to the response.
+     
+     <img width="624" alt="image" src="https://github.com/user-attachments/assets/15bb8300-1bbd-4f6c-86a1-928c76547ea1" />
+
 
 2. **Provide Additional Feedback**:  
    - A form will appear with options to specify the issue:  
      - **Retrieved documents were not relevant**.  
      - **AI misread the documents**.  
      - **Cited source had incorrect information**.
+       
+    <img width="592" alt="image" src="https://github.com/user-attachments/assets/1e9f6656-e90e-4a65-8e23-82c45177c12d" />
 
 3. **Add Notes** (Optional):  
    - Provide details about the issue, such as:
