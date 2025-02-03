@@ -6,7 +6,7 @@
 ## **1. Access Onyx.app**
 
 1. **Open Onyx.app**:  
-   - Navigate to [https://cloud.onyx.app/](http://cloud.onyx.app/anonymous/ucbn).
+   - Navigate to [http://cloud.onyx.app/anonymous/ucbn](http://cloud.onyx.app/anonymous/ucbn).
    <img width="698" alt="image" src="https://github.com/user-attachments/assets/1ce17d65-7ce5-4043-8e18-d7ae630afbbb" />
    
    - Log in with your administrator credentials. (Check notes at the end of the document in case you are not an admin)
